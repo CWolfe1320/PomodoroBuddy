@@ -24,6 +24,6 @@ lost via this method, or if the timer is stopped via the "stop" button your curr
 
 # Source Code:
 
-Source Code is available in a seperate repository here: https://github.com/CWolfe1320/PomodoroBuddy-Source-Code
+You may find the source code of PomodoroBuddy in this repository: https://github.com/CWolfe1320/PomodoroBuddy-Source-Code
 
 The same lisence applies to both repositories.
