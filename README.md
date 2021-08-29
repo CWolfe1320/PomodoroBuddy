@@ -20,20 +20,20 @@ lost via this method, or if the timer is stopped via the "stop" button your curr
 7) You are ready to launch and utilize Pomodoro Buddy!
 
 
-# Credits:
+# Credits
 * Pomodoro Penguin art:
   * Erik O'Hara
 * Inspiration
   * Jillian Zuwala
   
   
-# License:
+# License
 
 * PomodoroBuddy is under the GNU General Public License v3.0 as required by Qt framework.
 
 * You are welcome to reuse, change, or otherwise do whatever you'd like with PomodoroBuddy so long as proper attribution is followed.
 
-# Source Code Repository:
+# Source Code Repository
 
 You may find the source code of PomodoroBuddy in this repository: https://github.com/CWolfe1320/PomodoroBuddy-Source-Code
 
