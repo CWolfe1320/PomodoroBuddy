@@ -21,7 +21,7 @@ lost via this method, or if the timer is stopped via the "stop" button your curr
 
 
 # Credits
-* Pomodoro Penguin art:
+* Pomodoro Penguin art
   * Erik O'Hara
 * Inspiration
   * Jillian Zuwala
